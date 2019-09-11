@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://choxielei.dixongallery.org/sitemap.xml
